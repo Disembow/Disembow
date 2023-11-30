@@ -17,103 +17,103 @@
 <div>
   <img
     src="./assets/stack/html5-original.svg"
-    title="HTML5 logo"
+    title="HTML5"
     alt="HTML5 logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/css3-original.svg"
-    title="CSS3 logo"
+    title="CSS3"
     alt="CSS3 logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/sass-original.svg"
-    title="SASS logo"
+    title="SASS"
     alt="SASS logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/javascript-original.svg"
-    title="JavaScript logo"
+    title="JavaScript"
     alt="JavaScript logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/typescript-original.svg"
-    title="TypeScript logo" alt="TypeScript logo"
+    title="TypeScript" alt="TypeScript logo"
     height=35
   />
   <img
     src="./assets/stack/react-original.svg"
-    title="React logo"
+    title="React"
     alt="React logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/redux-original.svg"
-    title="Redux logo"
+    title="Redux"
     alt="Redux logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/nodejs-original.svg"
-    title="NodeJS logo"
+    title="NodeJS"
     alt="NodeJS logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/nestjs-plain.svg"
-    title="NestJS logo"
+    title="NestJS"
     alt="NestJS logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/docker-plain.svg"
-    title="Docker logo"
+    title="Docker"
     alt="Docker logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/vite.svg"
-    title="Vite logo"
+    title="Vite"
     alt="Vite logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/webpack-original.svg"
-    title="Webpack logo"
+    title="Webpack"
     alt="Webpack logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/mantine.svg"
-    title="Mantine logo"
+    title="Mantine"
     alt="Mantine logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/testing-library.svg"
-    title="Testing library logo"
+    title="Testing library"
     alt="Testing library logo"
     height=35
     width=40
   />
   <img
     src="./assets/stack/cypress.svg"
-    title="Cypress logo"
+    title="Cypress"
     alt="Cypress logo"
     height=35
     width=40
