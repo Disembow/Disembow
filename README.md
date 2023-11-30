@@ -1,5 +1,8 @@
 ### Hi all, I'm Yauhen Naliotau, beginner front-end developer 👋
 
+#### About me
+Dedicated, result-oriented, over 13 years in finance. An open-minded, motivated, adequate and honest person that likes learning and using new languages and tech stacks. Try and figure out how to improve the bad things and take the good things on board for any future ventures. I'm always open to new approaches and look out for any tips and tricks I can apply to my own work.
+
 #### How to reach me:
 
 <div id="badges">
