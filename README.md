@@ -3,11 +3,14 @@
 #### How to reach me:
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/CV-red?link=https%3A%2F%2Fyauhen-naliotau-cv.netlify.app%2F
-" alt="CV Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyauhen-naliotau-435238240%2F
-" alt="LinkedIn Badge"/>
-  <!-- <img src="" alt="Gmail Badge"/> -->
+  <img
+    src="https://img.shields.io/badge/CV-red?link=https%3A%2F%2Fyauhen-naliotau-cv.netlify.app%2F"
+    alt="CV Badge"
+  />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyauhen-naliotau-435238240%2F"
+    alt="LinkedIn Badge"
+  />
 </div>
 
 #### Tech Stack:
