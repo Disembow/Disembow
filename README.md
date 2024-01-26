@@ -5,16 +5,9 @@ Dedicated, result-oriented, over 13 years in finance. An open-minded, motivated,
 
 #### How to reach me:
 
-<div id="badges">
-  <img
-    src="https://img.shields.io/badge/CV-red?link=https%3A%2F%2Fyauhen-naliotau-cv.netlify.app%2F"
-    alt="CV Badge"
-  />
-  <img
-    src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyauhen-naliotau-435238240%2F"
-    alt="LinkedIn Badge"
-  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://yauhen-naliotau-cv.netlify.app/](https://www.linkedin.com/in/yauhen-naliotau-435238240/))
+
+[![CV](https://img.shields.io/badge/__CV__-red)](https://yauhen-naliotau-cv.netlify.app/)
 
 #### Tech Stack:
 <div>
