@@ -5,7 +5,7 @@ Dedicated, result-oriented, over 13 years in finance. An open-minded, motivated,
 
 #### How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://yauhen-naliotau-cv.netlify.app/](https://www.linkedin.com/in/yauhen-naliotau-435238240/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yauhen-naliotau-435238240/)
 
 [![CV](https://img.shields.io/badge/__CV__-red)](https://yauhen-naliotau-cv.netlify.app/)
 
